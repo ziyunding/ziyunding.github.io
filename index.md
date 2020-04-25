@@ -1,4 +1,4 @@
-## ZIYUN DING
+## ZIYUN DING PHD
 
 
 ### Markdown
@@ -8,6 +8,4 @@
 # Project
 # Publication
 
-## Header 2
-### Header 3
 
